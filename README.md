@@ -1,4 +1,4 @@
-#explore-github-yspm
+explore-github-yspm
 web developer
 
 vedantika
